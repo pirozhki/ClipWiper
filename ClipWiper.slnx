@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ClipWiper.vcxproj" Id="7d0da313-193a-4f16-a26a-29437375a44c" />
+</Solution>

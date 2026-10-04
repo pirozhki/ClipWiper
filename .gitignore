@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.aps
+
+# Build output / intermediate files
+x64/
+ClipWiper/
+
+# Common build artifacts
+*.obj
+*.iobj
+*.ipdb
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
